@@ -1,2 +1,2 @@
 # cat-portfolio
-My first html using CSS project
+My first project using html & CSS.
